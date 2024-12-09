@@ -1,0 +1,20 @@
+login{
+    background-color: aqua;
+    color: black;
+}
+.submit_login{
+    color: rgb(224, 164, 164);
+    background-color: blueviolet;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    gap: 8px;
+    margin: 0 auto;
+}
+.cool{
+    background-color: gray;
+    color: antiquewhite;
+}
+
